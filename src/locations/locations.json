@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Walt Disney World Dolphin Resort",
+    "street": " 1500 Epcot Resorts Blvd",
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://www.swandolphin.com/",
+    "pos": {"lat": 28.368708, "lng": -81.561041 }
+  },
+
+  {
+    "name": "Disney's Saratoga Springs Resort & Spa",
+    "street": "1960 Broadway",
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/",
+    "pos": {"lat": 28.376572, "lng": -81.522976}
+  },
+
+  {
+    "name": "Disney's Beach Club Resort",
+    "street": "1800 Epcot Resorts Blvd",
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/beach-club-resort/?CMP=OKC-wdw_lodging_gmap_7",
+    "pos": {"lat": 28.371744, "lng": -81.556487}
+  },
+
+  {
+    "name": "Disney's Coronado Springs Resort",
+    "street": "1000 Buena Vista Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/coronado-springs-resort/?CMP=OKC-wdw_lodging_gmap_12",
+    "pos": {"lat": 28.364173, "lng": -81.573761}
+  },
+
+  {
+    "name": "Disney's Polynesian Village Resort",
+    "street": "1600 Seven Seas Drive",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/polynesian-resort/",
+    "pos": {"lat": 28.406019, "lng": -81.583858}
+  },
+
+  {
+    "name": "Disney's Contemporary Resort",
+    "street": "4600 North World Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/contemporary-resort/?CMP=OKC-wdw_lodging_gmap_11",
+    "pos": {"lat": 28.416423, "lng": -81.574459}
+  },
+  {
+    "name": "Disney's Port Orleans Resort - Riverside",
+    "street": "1251 Riverside Dr",
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/port-orleans-resort-riverside/",
+    "pos": {"lat": 28.386403, "lng": -81.537014}
+  },
+
+  {
+    "name": "Disney's Art of Animation",
+    "street": "1850 Animation Way",
+    "city": "Lake Buena Vista",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/art-of-animation-resort/",
+    "pos": {"lat": 28.354429, "lng": -81.548645}
+  },
+
+  {
+    "name": "Disney's Caribbean Beach Resort",
+    "street": "900 Cayman way",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32830",
+    "url": "https://disneyworld.disney.go.com/resorts/caribbean-beach-resort/?CMP=OKC-wdw_lodging_gmap_10",
+    "pos": {"lat": 28.364124, "lng": -81.541826}
+  }
+
+]
