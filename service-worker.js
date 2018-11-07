@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/batistaDev1113/neighborhood-map-react/precache-manifest.0e71ef101aa4c9fc429bb66819a27899.js"
+  "/neighborhood-map-react/precache-manifest.3e7de5bf0061633adef42b2b99a0a958.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/batistaDev1113/neighborhood-map-react/index.html", {
+workbox.routing.registerNavigationRoute("/neighborhood-map-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

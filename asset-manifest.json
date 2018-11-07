@@ -1,13 +1,13 @@
 {
-  "main.css": "/batistaDev1113/neighborhood-map-react/static/css/main.a8d880ff.chunk.css",
-  "main.js": "/batistaDev1113/neighborhood-map-react/static/js/main.8e7f85f0.chunk.js",
-  "main.js.map": "/batistaDev1113/neighborhood-map-react/static/js/main.8e7f85f0.chunk.js.map",
-  "static/js/1.5d128b61.chunk.js": "/batistaDev1113/neighborhood-map-react/static/js/1.5d128b61.chunk.js",
-  "static/js/1.5d128b61.chunk.js.map": "/batistaDev1113/neighborhood-map-react/static/js/1.5d128b61.chunk.js.map",
-  "runtime~main.js": "/batistaDev1113/neighborhood-map-react/static/js/runtime~main.66047921.js",
-  "runtime~main.js.map": "/batistaDev1113/neighborhood-map-react/static/js/runtime~main.66047921.js.map",
-  "static/css/main.a8d880ff.chunk.css.map": "/batistaDev1113/neighborhood-map-react/static/css/main.a8d880ff.chunk.css.map",
-  "index.html": "/batistaDev1113/neighborhood-map-react/index.html",
-  "precache-manifest.0e71ef101aa4c9fc429bb66819a27899.js": "/batistaDev1113/neighborhood-map-react/precache-manifest.0e71ef101aa4c9fc429bb66819a27899.js",
-  "service-worker.js": "/batistaDev1113/neighborhood-map-react/service-worker.js"
+  "main.css": "/neighborhood-map-react/static/css/main.a8d880ff.chunk.css",
+  "main.js": "/neighborhood-map-react/static/js/main.422a45ba.chunk.js",
+  "main.js.map": "/neighborhood-map-react/static/js/main.422a45ba.chunk.js.map",
+  "static/js/1.5d128b61.chunk.js": "/neighborhood-map-react/static/js/1.5d128b61.chunk.js",
+  "static/js/1.5d128b61.chunk.js.map": "/neighborhood-map-react/static/js/1.5d128b61.chunk.js.map",
+  "runtime~main.js": "/neighborhood-map-react/static/js/runtime~main.5512b3a0.js",
+  "runtime~main.js.map": "/neighborhood-map-react/static/js/runtime~main.5512b3a0.js.map",
+  "static/css/main.a8d880ff.chunk.css.map": "/neighborhood-map-react/static/css/main.a8d880ff.chunk.css.map",
+  "index.html": "/neighborhood-map-react/index.html",
+  "precache-manifest.3e7de5bf0061633adef42b2b99a0a958.js": "/neighborhood-map-react/precache-manifest.3e7de5bf0061633adef42b2b99a0a958.js",
+  "service-worker.js": "/neighborhood-map-react/service-worker.js"
 }
